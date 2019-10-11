@@ -20,3 +20,5 @@ C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Ec
 C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.dll
 C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.pdb
 C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csproj.CopyComplete
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csprojAssemblyReference.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
